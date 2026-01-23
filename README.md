@@ -1,16 +1,27 @@
-## Hi there 👋
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=35&pause=1000&color=00F2EA&center=true&vCenter=true&width=600&lines=AlMuxtaarDev;Future+MLOps+Engineer;Fullstack+Developer+%40+UCAK;Building+the+Future+of+Touba" alt="Typing SVG" />
+</div>
 
-<!--
-**makhtar2/makhtar2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
 
-Here are some ideas to get you started:
+<h3 align="center">⚡ SYSTEM STATUS: ONLINE</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```python
+class AlMuxtaarDev:
+    def __init__(self):
+        self.name = "Makhtar"
+        self.role = "Student (L3 DAR) @ UCAK"
+        self.location = "Touba & Thies, Senegal 🇸🇳"
+        self.mission = "Democratizing Tech in Touba"
+        
+    def current_focus(self):
+        return {
+            "Learning": ["MLOps Pipelines", "Advanced CI/CD"],
+            "Building": ["Saytu (Security App)", "Métiers & Tech Hub"],
+            "Club": "Responsable Pédagogique @ UFR MET"
+        }
+
+    def hobbies(self):
+        return ["Blender 3D", "Automation with n8n", "Community Building"]
