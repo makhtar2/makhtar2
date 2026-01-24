@@ -1,36 +1,40 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,25,30&height=250&section=header&text=AlMuxtaarDev&fontSize=80&fontAlignY=38&animation=fadeIn&fontColor=ffffff&desc=Building%20the%20Future%20@%20UCAK%20🇸🇳&descSize=20&descAlignY=55" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,25,30&height=220&section=header&text=AlMuxtaarDev&fontSize=70&fontAlignY=35&animation=fadeIn&fontColor=ffffff&descAlignY=60&descAlign=50" alt="Header" />
 </div>
 
-<h1 align="center">Hey, je suis Makhtar 👋</h1>
-<p align="center">
-  <b>Futur MLOps Engineer</b> • <b>Fullstack Developer</b> • <b>Créateur Digital</b>
-</p>
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3F51B5&center=true&vCenter=true&width=500&lines=Future+MLOps+Engineer;Building+Solutions+in+Touba+%F0%9F%87%B8%F0%9F%87%B3;Fullstack+Dev+%40+UCAK;Python+%7C+Django+%7C+Next.js" alt="Typing SVG" />
+  </a>
+</div>
 
 <p align="center">
-  Basé à <b>Touba, Sénégal</b>, je transforme des idées complexes en code simple et scalable. <br>
-  Actuellement, je combine <b>Django</b> et <b>l'IA</b> pour résoudre des problèmes réels.
-</p>
-
-<p align="center">
-  <a href="https://linkedin.com/in/TON_LINKEDIN" target="_blank">
+  <a href="https://linkedin.com/in/makhtar-wade" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:TON_EMAIL@gmail.com">
-    <img src="https://img.shields.io/badge/Me_contacter-Noir?style=for-the-badge&logo=gmail&logoColor=white&color=101010" alt="Email"/>
+  <a href="mailto:makhtar2gsm@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://github.com/makhtar2">
-    <img src="https://img.shields.io/badge/Portfolio-Projets-blueviolet?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/UCAK_Dev_Team-2ea44f?style=for-the-badge&logo=github&logoColor=white" alt="Team"/>
   </a>
 </p>
 
 <br>
 
-<h2 align="center">⚡ Ma Tech Stack</h2>
+<h3 align="center">🏆 Achievements</h3>
 <div align="center">
-  <br>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=makhtar2&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1" alt="trophy" />
+  </a>
+</div>
+
+<br>
+
+<h3 align="center">⚡ Tech Arsenal</h3>
+<div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,django,nextjs,ts,angular,html,css&perline=7" />
+    <img src="https://skillicons.dev/icons?i=python,django,nextjs,ts,angular,html,css,vscode&perline=8" />
   </a>
   <br><br>
   <a href="https://skillicons.dev">
@@ -40,26 +44,32 @@
 
 <br>
 
-<h2 align="center">🚀 Projets en Vedette</h2>
+<h3 align="center">🚀 Featured Projects</h3>
 
-| Status | Projet | Stack | Mission |
+| Status | Projet | Stack | Description |
 | :---: | :--- | :--- | :--- |
-| 🟢 | **Saytu** | `Mobile` `AI` | Sécuriser l'accès via reconnaissance IA & QR. |
-| 🔵 | **UCAK Vote** | `Django` `Python` | Plateforme de vote déployée à l'université. |
-| 🟣 | **Roadmap Tracker** | `Next.js` `TS` | App de suivi de compétences MLOps. |
-| 🟠 | **HealthAI** | `ML` `Python` | Prédiction médicale (Hackathon Docsen). |
-
+| 🟢 | **Saytu** | `Mobile` `AI` | Contrôle d'accès intelligent via Reconnaissance Faciale & QR. |
+| 🟣 | **Roadmap Tracker** | `Next.js` `TS` | Dashboard pour suivre ma progression vers le MLOps. |
 <br>
 
-<h2 align="center">📈 Mes Stats</h2>
+<h3 align="center">📊 GitHub Analytics</h3>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=makhtar2&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=00000000" height="180" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=makhtar2&layout=compact&theme=midnight-purple&hide_border=true&bg_color=00000000" height="180" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=makhtar2&show_icons=true&theme=radical&hide_border=true&bg_color=00000000&count_private=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=makhtar2&layout=compact&theme=radical&hide_border=true&bg_color=00000000&langs_count=6" height="180" />
 </div>
 
 <div align="center">
-  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=makhtar2&theme=radical&hide_border=true&background=00000000&ring=FF00FF&fire=FF00FF&currStreakLabel=FF00FF" alt="streak graph" />
+</div>
+
+<br>
+
+<div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-  <p><i>"The best way to predict the future is to invent it."</i></p>
+  <br>
+  <p>Profile Views</p>
+  <img src="https://komarev.com/ghpvc/?username=makhtar2&label=VISITORS&color=0e75b6&style=for-the-badge" alt="Visitors" />
+  <br>
+  <p align="center"><i>"Code is Poetry." - Touba, Senegal</i></p>
 </div>
