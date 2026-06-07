@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,c2773a,100,d9a54e&height=220&section=header&text=Makhtar%20Wade&fontSize=70&fontAlignY=35&animation=fadeIn&fontColor=ffffff&descAlignY=60&descAlign=50&desc=Développeur%20Full-Stack%20%26%20Designer%20UI/UX" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,c2773a,100,d9a54e&height=220&section=header&text=Makhtar%20Wade&fontSize=70&fontAlignY=35&animation=fadeIn&fontColor=ffffff&descAlignY=60&descAlign=50&desc=D%C3%A9veloppeur%20Full-Stack%20%26%20Designer%20UI%2FUX" alt="Header" />
 </div>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=d9a54e&center=true&vCenter=true&width=650&lines=Étudiant+Entrepreneur+@+UCAK;Fondateur+de+la+startup+JULO;Architectures+Distribuées;Développeur+Next.js+%26+Supabase;Design+UI/UX+Premium" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=d9a54e&center=true&vCenter=true&width=650&lines=%C3%89tudiant+Entrepreneur+%40+UCAK;Fondateur+de+la+startup+JULO;Architectures+Distribu%C3%A9es;D%C3%A9veloppeur+Next.js+%26+Supabase;Design+UI%2FUX+Premium" alt="Typing SVG" />
   </a>
 </div>
 
@@ -23,18 +23,9 @@
 <br>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" style="border-radius: 20px;">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
   <br>
   <p><i>"Alliant la rigueur technique logicielle à une expertise avancée en design UI/UX."<br>📍 Touba & Thiès, Sénégal 🇸🇳</i></p>
-</div>
-
-<br>
-
-<h3 align="center">🏆 Accomplissements & Cursus</h3>
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=makhtar2&theme=dracula&no-frame=true&no-bg=true&margin-w=4&row=1" alt="trophy" />
-  </a>
 </div>
 
 <br>
