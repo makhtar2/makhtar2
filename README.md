@@ -1,74 +1,64 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,c2773a,100,d9a54e&height=220&section=header&text=Makhtar%20Wade&fontSize=70&fontAlignY=35&animation=fadeIn&fontColor=ffffff&descAlignY=60&descAlign=50&desc=D%C3%A9veloppeur%20Full-Stack%20%26%20Designer%20UI%2FUX" alt="Header" />
-</div>
-
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=d9a54e&center=true&vCenter=true&width=650&lines=%C3%89tudiant+Entrepreneur+%40+UCAK;Fondateur+de+la+startup+JULO;Architectures+Distribu%C3%A9es;D%C3%A9veloppeur+Next.js+%26+Supabase;Design+UI%2FUX+Premium" alt="Typing SVG" />
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=111111&height=180&section=header&text=Makhtar%20Wade&fontSize=55&fontColor=d9a54e&fontAlignY=35" alt="Header" />
 </div>
 
 <p align="center">
+  <strong>Développeur Full-Stack & Designer UI/UX</strong><br>
+  Étudiant en Licence 3 Informatique · Co-fondateur de la startup JULO<br>
+  Sénégal (Touba & Thiès)
+</p>
+
+<p align="center">
   <a href="https://linkedin.com/in/makhtar-wade" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=d9a54e" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-111111?style=flat-square&logo=linkedin&logoColor=d9a54e" alt="LinkedIn"/>
   </a>
   <a href="mailto:makhtar2gsm@gmail.com">
-    <img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=d9a54e" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-111111?style=flat-square&logo=gmail&logoColor=d9a54e" alt="Email"/>
   </a>
   <a href="https://github.com/makhtar2">
-    <img src="https://img.shields.io/badge/UCAK_Dev_Team-111111?style=for-the-badge&logo=github&logoColor=d9a54e" alt="Team"/>
+    <img src="https://img.shields.io/badge/GitHub-111111?style=flat-square&logo=github&logoColor=d9a54e" alt="GitHub"/>
   </a>
 </p>
 
-<br>
+---
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-  <br>
-  <p><i>"Alliant la rigueur technique logicielle à une expertise avancée en design UI/UX."<br>📍 Touba & Thiès, Sénégal 🇸🇳</i></p>
-</div>
+### À propos
 
-<br>
+Je conçois des architectures web modernes, robustes et optimisées, de la modélisation des bases de données jusqu'à l'implémentation d'interfaces utilisateur épurées. Mon approche associe la rigueur algorithmique et le soin du détail visuel.
 
-<h3 align="center">⚡ Arsenal Technologique</h3>
-<div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,python,js,ts,react,nextjs,nodejs,tailwind&perline=8&theme=dark" />
-  </a>
-  <br><br>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=supabase,postgres,git,github,figma,ps,ai,vscode&perline=8&theme=dark" />
-  </a>
-</div>
+* **Secteurs clés** : Développement d'applications web distribuées, intégration de services cloud (SaaS/BaaS), et design système.
+* **Stack privilégiée** : Next.js, Supabase, PostgreSQL et architectures NoSQL.
 
-<br>
+---
 
-<h3 align="center">🚀 Réalisations Récentes</h3>
+### Arsenal Technique
+
+* **Langages** : TypeScript, JavaScript, Python, Java
+* **Frameworks & Bibliothèques** : Next.js, React, Node.js, Express, Tailwind CSS
+* **Bases de données & Infrastructure** : PostgreSQL, Supabase, MongoDB, Docker
+* **Outils de Conception** : Figma, VS Code, Git & GitHub
+
+---
+
+### Réalisations Récentes
 
 | Statut | Projet | Technologies | Description |
 | :---: | :--- | :--- | :--- |
-| 🟢 | **Global Air SN** | `Next.js` `Supabase` | Plateforme e-commerce de produits high-tech et électroniques. |
-| 🟡 | **Sherifa Parfumerie** | `Next.js` `Tailwind` | Maison de parfumerie de luxe (expérience e-commerce fluide). |
-| 🟣 | **Qurratul Ayni** | `Next.js` `Framer` | Plateforme numérique pédagogique pour une étude approfondie. |
-| 🔵 | **Babos Photographie**| `Next.js` `Supabase` | Système complet de réservation et boutique pour studio pro. |
-| 🔴 | **Vote Numérique** | `Next.js` `PostgreSQL` | Système sécurisé de gestion et d'automatisation des élections. |
+| 🟢 | **Global Air SN** | Next.js · Supabase · Tailwind | Plateforme e-commerce d'équipements technologiques et électroniques. |
+| 🟡 | **Sherifa Parfumerie** | Next.js · Tailwind CSS | Expérience d'achat en ligne haut de gamme pour une maison de parfums. |
+| 🟢 | **Vote Numérique** | Next.js · PostgreSQL | Système sécurisé de gestion et d'automatisation des scrutins en ligne. |
+| 🟢 | **Babos Photographie** | Next.js · Supabase | Plateforme de réservation de créneaux et portfolio dynamique pour studio professionnel. |
+| 🟢 | **Qurratul Ayni** | Next.js · Framer Motion | Solution d'apprentissage en ligne avec interfaces pédagogiques interactives. |
 
-<br>
+---
 
-<h3 align="center">📊 Statistiques GitHub</h3>
+### Statistiques GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=makhtar2&show_icons=true&hide_border=true&bg_color=00000000&title_color=d9a54e&text_color=a0a0a0&icon_color=c2773a&count_private=true" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=makhtar2&layout=compact&hide_border=true&bg_color=00000000&title_color=d9a54e&text_color=a0a0a0&langs_count=6" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=makhtar2&show_icons=true&hide_border=true&bg_color=00000000&title_color=d9a54e&text_color=444444&icon_color=d9a54e&count_private=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=makhtar2&layout=compact&hide_border=true&bg_color=00000000&title_color=d9a54e&text_color=444444&langs_count=6" height="150" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=makhtar2&hide_border=true&background=00000000&ring=d9a54e&fire=c2773a&currStreakLabel=d9a54e&currStreakNum=ffffff&sideNums=ffffff&sideLabels=a0a0a0&dates=a0a0a0&stroke=00000000" alt="streak graph" />
-</div>
-
-<br>
-
-<div align="center">
-  <p>Vues du profil</p>
-  <img src="https://komarev.com/ghpvc/?username=makhtar2&label=VISITEURS&color=d9a54e&style=for-the-badge" alt="Visitors" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=makhtar2&hide_border=true&background=00000000&ring=d9a54e&fire=d9a54e&currStreakLabel=d9a54e&currStreakNum=222222&sideNums=222222&sideLabels=444444&dates=444444&stroke=00000000" alt="Streak Stats" height="80" />
 </div>
