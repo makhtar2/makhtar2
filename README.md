@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-  <strong>Développeur Full-Stack & Designer UI/UX</strong><br>
+  <strong>Développeur Full-Stack &amp; Designer UI/UX</strong><br>
   Étudiant en Licence 3 Informatique · Co-fondateur de la startup JULO<br>
   Sénégal (Touba & Thiès)
 </p>
